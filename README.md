@@ -10,12 +10,15 @@ Site beautySalon.
 
 Site desenvolvido no curso Essential da rocketseat.
 
+
+
 ✨ Tecnologias
 
 -   [ ] HTML5
 -   [ ] JavaScript
 -   [ ] CSS
 
+ 
  
 🔖 Layout
 Você pode visualizar o layout do projeto baixando o código no meu Github.
