@@ -5,7 +5,8 @@
 
 
 
-💻 Projeto
+💻 Projeto:
+
 Site beautySalon.
 
 Site desenvolvido no curso Essential da rocketseat.
